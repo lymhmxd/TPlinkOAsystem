@@ -1,0 +1,65 @@
+@charset "gb2312";
+/* 全局 */
+*{margin:0;padding:0;color:#222;font-family: 'Microsoft YaHei UI', Tahoma, Geneva, Verdana, sans-serif;font-size: 14px;}
+body{background:#ccc;height:auto;}
+html{overflow: scroll;}
+a{text-decoration:none;}
+a:hover{color: #d22222;font-weight: bold;}
+table{border-spacing: 0;border-collapse:0;}
+hr{border:1px solid #d22222;width:99.8%;}
+ul,li{border:none;}
+select{width:100%;border:none;height:100%;text-align:center;}
+
+/* 导航 */
+#nav{position:fixed;background: #d22222;width: 100%;height:35px;font-size: 18px;}
+.nav {width:1100px;margin: 0 auto;font-size:18px;line-height:35px;}
+.nav li {float:left;list-style-type: none;width: 112px;text-align: center;}
+.nav li a{background-color: #d22222;display:block;text-decoration:none;padding: 0 20px;color: white;}
+.nav li a:hover{background:white;color: #d22222;font-weight: bold;}
+.nav li ul {list-style-type: none;left: -999em; width:110px;position:absolute;}
+.nav li ul li{float:left;width: 110px;text-align:center;border:1px solid #d22222;}
+.nav li ul li a{overflow: auto;background: #d22222;color: white;line-height: 30px;}
+.nav li ul li a:hover{background:white;color:#d22222;}
+.nav li:hover ul {left: auto;}
+.nav li:sfhover ul {left: auto;}
+
+/* 内容 */
+#content{width:1100px;background: white;margin:0 auto;height: 100%;}
+#content ul{padding-left: 10px;}
+#content ul li{line-height:25px;list-style-type: square;}
+#content ul li:hover{color: #d22222}
+#content ul li a:hover{color: #d22222;font-weight: normal;}
+#content div p{display:block;line-height: 30px;color:#d22222;}
+#datascan{width: 100%;padding: 0 10px 10px 10px;table-layout: fixed;}
+#datascan caption{font-size:25px;height:40px;line-height:40px;margin:0 10px;}
+#datascan tr th{background: aquamarine;border: 1px dotted darkolivegreen;height: 30px;font-size:15px;word-break: keep-all;}
+#datascan tr td{border: 1px dotted darkolivegreen;height: 25px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+#datascan tr:hover{background-color: #ffffcc;}
+#way{background: white;width: 1080px;margin: 0px auto;font-size: 14px;line-height: 35px;padding: 35px 10px 0 10px;}
+#way a{color:#d22222;}
+
+/* 表单 */
+#silter{width: 400px;padding: 0 10px 10px 10px;margin: 0 auto;}
+#silter caption{font-size:25px;height:40px;line-height:40px;margin:0 10px;}
+#silter tr th{background: lightyellow;border: 1px dotted #d22222;height: 30px;font-size:15px;word-break: keep-all;}
+#silter tr td{border: 1px dotted #d22222;height: 30px;text-align:center;}
+#silter tr td input{border: 0;height: 30px;width: 100%;}
+
+/*强调*/
+.stress{color: #d22222;font-size: 16px;}
+
+/* 按钮 */
+.an{border:0;width:60px;margin:0;height: 30px;}
+.an:hover{background: #d22222;color:white;cursor:pointer;}
+
+/*说明性文字*/
+#content .stat{padding: 10px;width: 1000px;margin: 0 auto;}
+#content .stat ul{list-style: decimal;padding: 15px,0;}
+#content .stat ul li:hover{color: #222}
+
+/* 底注 */
+#bottom{width: 1100px;margin: 0 auto;padding: 0; }
+#bottom td{background: white;text-align:center;}
+#bottom span{line-height: 35px;}
+#bottom a{color: blue}
+#copyright{color:#666}

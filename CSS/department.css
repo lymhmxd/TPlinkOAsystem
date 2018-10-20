@@ -1,0 +1,15 @@
+#dept_scan{width: 100%;padding: 0 10px 10px 10px;table-layout: fixed;}
+#dept_scan caption{font-size:25px;height:40px;line-height:40px;margin:0 10px;}
+#dept_scan tr th{background: aquamarine;border: 1px dotted darkolivegreen;height: 30px;font-size:15px;word-break: keep-all;}
+#dept_scan tr td{border: 1px dotted darkolivegreen;height: 40px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+
+/*Òþ²Ø²ã*/
+#dept_top{position:fixed;top:50%;left:50%;width:400px;height:160px;background:white;border:4px solid #d22222;margin:-82px 0 0 -202px;display:none;}
+#dept_lay{position:fixed;top:0;left:0;width:100%;height:100%;background:#ccc;display:none;opacity:0.5;}
+h2{padding:5px;background: #d22222;text-align: right;}
+h2 span{cursor:pointer;background: #d22222;color:white;}
+h2 span:hover{color:yellow;}
+#dept_top_tb{width: 80%;}
+#dept_top_tb tr td{height: 35px;border-width: 1px}
+#dept_top_tb input{border: 1px solid #d22222;height:32px;width: 198px;}
+#dept_top_tb select{border: 1px solid #d22222;height: 32px;width: 200px}

@@ -1,0 +1,7 @@
+@charset "gb2312";
+#data{width: 100%;}
+#data caption{border:1px dotted darkolivegreen;font-size:18px;line-height:40px;text-align: left;margin:0 10px;}
+#data tr th{background: aquamarine;border: 1px dotted darkolivegreen;height: 30px;font-size:15px;}
+#data tr td{border: 1px dotted darkolivegreen;height: 25px;text-align: center;}
+#content .style1{color:#d22222;font-size:15px}
+#content .style0{border: 1px solid gold;margin: 10px;}

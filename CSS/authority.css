@@ -1,0 +1,5 @@
+#seleceid{border: 1px solid #d22222;height:30px;width:100%;}
+#tbau{width: 100%;padding: 0 10px 10px 10px;}
+#tbau caption{font-size:25px;height:40px;line-height:40px;margin:0 10px;}
+#tbau tr th{height: 40px;word-break: keep-all;}
+#tbau tr td{height: 40px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
