@@ -7,43 +7,43 @@
 </head>
 <body>
 <div id="way">
-    <a href="/index.asp">��ҳ</a>
+    <a href="/index.asp">首页</a>
 </div>
 <div id="content" style="height:800px;">
 	<hr>
 	<div class="style0" style="height:235px;width:300px;float:left;">
-		<span class="style1">ʵʱ����</span> 
+		<span class="style1">实时公告</span> 
 		<ul>
-			<li><a href="#">���ڹ���ڷżٵ�ͨͨ�����ڹ���ڷż�</a></li>
-			<li><a href="#">���ڹ���ڷżٵ�ͨͨ�����ڹ���ڷż�</a></li>
-			<li><a href="#">���ڹ���ڷżٵ�ͨͨ�����ڹ���ڷż�</a></li>
-			<li><a href="#">���ڹ���ڷżٵ�ͨͨ�����ڹ���ڷż�</a></li>
+			<li><a href="#">关于国庆节放假的通通话关于国庆节放假</a></li>
+			<li><a href="#">关于国庆节放假的通通话关于国庆节放假</a></li>
+			<li><a href="#">关于国庆节放假的通通话关于国庆节放假</a></li>
+			<li><a href="#">关于国庆节放假的通通话关于国庆节放假</a></li>
 		</ul>
 	</div>
 	<div class="style0" style="width:750px;height:235px;float:left;">
-		<span class="style1">ÿ�����ݸ���</span> 
+		<span class="style1">每日数据概览</span> 
 		<table id="data" style="height:200px;">
 			<tr>
-				<th>��Ŀ</th>
-				<th colspan="6">���Զ�</th>
-				<th colspan="2">�ռ��</th>
-				<th colspan="2">���϶�</th>
+				<th>项目</th>
+				<th colspan="6">测试段</th>
+				<th colspan="2">终检段</th>
+				<th colspan="2">来料段</th>
 				
 			</tr>
 			<tr>
 				<td style="font-weight:bold">&nbsp;</td>
-				<td>һ�β���</td>
-				<td>���β���</td>
-				<td>���β���</td>
-				<td>�Ķβ���</td>
-				<td>��β���</td>
-				<td>�������</td>
-				<td>����Ʒ��</td>
-				<td>����</td>
-				<td>����</td>
+				<td>一段测试</td>
+				<td>二段测试</td>
+				<td>三段测试</td>
+				<td>四段测试</td>
+				<td>五段测试</td>
+				<td>整体测试</td>
+				<td>各产品线</td>
+				<td>整体</td>
+				<td>整体</td>
 			</tr>
 			<tr>
-				<td style="font-weight:bold">��Դ������</td>
+				<td style="font-weight:bold">电源适配器</td>
 				<td>&nbsp;</td>
 				<td>&nbsp;</td>
 				<td>&nbsp;</td>
@@ -55,7 +55,7 @@
 				<td rowspan="5">&nbsp;</td>
 			</tr>			
 			<tr>
-				<td style="font-weight:bold">����ʽ��Դ��</td>
+				<td style="font-weight:bold">开放式电源板</td>
 				<td>&nbsp;</td>
 				<td>&nbsp;</td>
 				<td>&nbsp;</td>
@@ -65,7 +65,7 @@
 				<td>&nbsp;</td>
 			</tr>
 			<tr>
-				<td style="font-weight:bold">�ƶ���Դ</td>
+				<td style="font-weight:bold">移动电源</td>
 				<td>&nbsp;</td>
 				<td>&nbsp;</td>
 				<td>&nbsp;</td>
@@ -75,7 +75,7 @@
 				<td>&nbsp;</td>
 			</tr>
 			<tr>
-				<td style="font-weight:bold">���</td>
+				<td style="font-weight:bold">电池</td>
 				<td>&nbsp;</td>
 				<td>&nbsp;</td>
 				<td>&nbsp;</td>
@@ -85,7 +85,7 @@
 				<td>&nbsp;</td>
 			</tr>
 			<tr>
-				<td style="font-weight:bold">��ѹ��</td>
+				<td style="font-weight:bold">变压器</td>
 				<td>&nbsp;</td>
 				<td>&nbsp;</td>
 				<td>&nbsp;</td>
